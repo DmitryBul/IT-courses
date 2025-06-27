@@ -1,0 +1,14 @@
+Instrukcja uruchomienia: 
+
+1. Dla uruchomienia aplikacji potrzebne jest narzędzie MongoDBCompass
+2. W MongoDBCompass: import connections - Select a file... - wybrać plik "compass-connections.json",
+który znajduje się w folderze z aplikacją.
+3. W edytorze kodu otworzyć folder projektu.
+4. Otworzyć dwa terminale.
+5. W pierwszym wpisać komendę: cd app
+Dalej: npm run dev
+6. W drugim wpisać komendę: cd server
+Dalej: npm start
+7. Po uruchomieniu aplikacja dostępna będzie pod adresem: http://localhost:5173/
+
+Najlepiej od razu przejść na stronę rejestracji i stworzyć konto: http://localhost:5173/register

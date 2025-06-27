@@ -1,0 +1,87 @@
+.auth {
+  margin: 0; 
+  height: 100vh; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  background-color: #f0f0f0; 
+}
+
+.form-container {
+  max-width: 600px; 
+  width: 900px; 
+  height: 330px;
+  padding: 30px; 
+  border: 1px solid #ccc; 
+  border-radius: 10px; 
+  background-color: #fff; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.form-container h1 {
+  margin-bottom: 20px; 
+  font-size: 28px; 
+  text-align: center; 
+}
+
+  .container input[type="email"],
+  .container input[type="text"],
+  .container input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+
+.container button {
+  width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.form-containerR {
+  max-width: 600px; 
+  width: 900px; 
+  height: 500px;
+  padding: 30px; 
+  border: 1px solid #ccc; 
+  border-radius: 10px; 
+  background-color: #fff; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.form-containerR h1 {
+  margin-bottom: 20px; 
+  font-size: 28px; 
+  text-align: center; 
+}
+
+  .containerR input[type="email"],
+  .containerR input[type="text"],
+  .containerR input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+
+.containerR button {
+  width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
