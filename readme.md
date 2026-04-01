@@ -2,7 +2,7 @@
 
 <img width="687" height="329" alt="image" src="https://github.com/user-attachments/assets/1a7947e2-3ea9-4b3c-89fc-852b04d9eb2a" />
 
-<img width="657" height="475" alt="image" src="https://github.com/user-attachments/assets/2e94c966-e3b3-494c-8d26-588b5db2636c" />
+<img width="687" height="475" alt="image" src="https://github.com/user-attachments/assets/2e94c966-e3b3-494c-8d26-588b5db2636c" />
 
 This is a MERN stack application (MongoDB, Express, React, Node.js) that requires MongoDB Compass for local database connection setup.
 
